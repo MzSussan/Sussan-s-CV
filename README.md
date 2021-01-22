@@ -50,14 +50,18 @@ Self Taught Data Analyst with strong analytical skills combined with experience 
 *	Coordinated disbursement of fund and other physical materials to beneficiaries
 *	Took minutes of meeting held both internally and externally with Branch manager
 *	Supervised replenishment of office stock
-*	Analyzing financial report 
+*	Analyzed financial report 
 
 #### **Volunteer Data Clerk** | Centre for Integrated Health Programs (CIHP) | Makurdi, Benue State | June 2017- October 2017
 
-*	Migrated data from Patients folder to online system database 
-*	Proper investigation of file for prior errors
+Compared data with source documents, and re-entered data in verification format to detect errors
+*	Compiled, sorted and verified the accuracy of data before it was entered 
+*	Located and corrected data entry errors, or reported them to supervisors
+* Maintained logs of activities of completed work
 *	Management of all files to be accessed
-*	Maintenance of all ICT tools used
+*	Maintenance and replacement of all ICT tools used
+* Inputted a large volume of data into company database
+
 ---
 ## **EDUCATION**
 
