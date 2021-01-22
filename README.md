@@ -28,7 +28,7 @@ Self Taught Data Analyst with strong analytical skills combined with experience 
   * Problem Solving
   ---
   ## **EXPERIENCE**
-  ####  **Project Manager** |	Devand Agency | Port-Harcourt, Rivers State | June 2019 – Present
+  ####  **Project Manager** |	Devand Agency | Port-Harcourt, Rivers State | June 2019 – December 2020
        
 *	Coordinate offline and online meetings.
 *	Research companies in need of technological advancement
