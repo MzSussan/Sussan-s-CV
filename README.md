@@ -1,5 +1,5 @@
 # **OPLEKWU SUSSAN ONNE**
-#### Ikorodu, Lagos |(+234)703-209-8201 | sussanoplekwu@gmail.com | [Github](https://github.com/MzSussan) | [Linkedin](https://www.linkedin.com/in/https://www.linkedin.com/in/sussan-oplekwu-96b031183/)
+#### Ikorodu, Lagos | (+234)703-209-8201 | sussanoplekwu@gmail.com | [Github](https://github.com/MzSussan) | [Linkedin](https://www.linkedin.com/in/https://www.linkedin.com/in/sussan-oplekwu-96b031183/)
 ---
 
 Self Taught Data Analyst with strong analytical skills combined with experience in object-oriented programming techniques.Passionate about studying how to improve performance seeking to leverage Data Analytics skills to imporove corporate performance as a data analyst.
