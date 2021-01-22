@@ -54,7 +54,6 @@ Self Taught Data Analyst with strong analytical skills combined with experience 
 
 #### **Volunteer Data Clerk** | Centre for Integrated Health Programs (CIHP) | Makurdi, Benue State | June 2017- October 2017
 
-Compared data with source documents, and re-entered data in verification format to detect errors
 *	Compiled, sorted and verified the accuracy of data before it was entered 
 *	Located and corrected data entry errors, or reported them to supervisors
 * Maintained logs of activities of completed work
