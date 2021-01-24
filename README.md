@@ -28,7 +28,7 @@ Self Taught Data Analyst with strong analytical skills combined with experience 
   * Problem Solving
   ---
   ## **EXPERIENCE**
-  ####  **Project Manager** |	Devand Agency | Port-Harcourt, Rivers State | June 2019 – December 2020
+  ####  **Project Manager** |	Devand Agency | Port-Harcourt, Rivers State | June 2019 – November 2020
        
 *	Coordinate offline and online meetings.
 *	Research companies in need of technological advancement
@@ -37,6 +37,8 @@ Self Taught Data Analyst with strong analytical skills combined with experience 
 *	Learning Block Chain technology and AI
 *	Tutor clients on basics  of python programming language 
 *	Create database for all clients 
+* Planning and overseeing projects 
+*	Monitor progress of projects 
 
 #### **Office Assistant (Liability department)** |  Bank of Agriculture | Calabar, Cross River state | June 2018 – March 2019
 
